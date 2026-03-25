@@ -9,7 +9,7 @@ Detects objects in images in real time using YOLOv8 — a state-of-the-art deep 
 - Google Colab
 
 ## Result
-![detection result](result.jpg)
+An image of all the objects being detected will be present.
 
 ## How to Run
 1. Open the notebook in Google Colab
